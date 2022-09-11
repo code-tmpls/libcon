@@ -1,7 +1,7 @@
 
 const webpackUtil = require( './config/webpack.utils.cjs' );
 // const webpackConfig = require('../lib/webpack.config.cjs');
-const webpackConfigAlias = webpackUtil.webpackLibraryAliasConfiguration(['library']);
+const webpackConfigAlias = webpackUtil.webpackLibraryAliasConfiguration(['library-ahaa']);
 
 module.exports = {
   resolve: {

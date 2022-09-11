@@ -1,4 +1,7 @@
 const Path = require('path');
+const webpackUtil = require( './config/webpack.utils.cjs' );
+
+webpackUtil.setPackageInfo('PATCH'); // MAJOR, MINOR, PATCH
 
 module.exports = {
     entry: './src/index.js',
