@@ -1,3 +1,3 @@
-import util from 'lib';
+import util from 'library';
 
 console.log(util);
