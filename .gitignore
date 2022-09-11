@@ -1,0 +1,7 @@
+# Ignore node_modules folder
+
+consumer/node_modules
+consumer/dist
+
+library/node_modules
+library/dist
